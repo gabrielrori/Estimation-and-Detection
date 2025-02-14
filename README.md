@@ -1,6 +1,6 @@
 # Estimation and Detection Repository
 
-This repository focuses on the study and application of Estimation and Detection. It includes various topics and subtopics that are aimed at aiding the understanding and application of concepts in this subject.
+Study and application of Estimation and Detection. It includes various topics and subtopics that are aimed at aiding the understanding and application of concepts in this subject.
 
 ## Table of Contents
 
